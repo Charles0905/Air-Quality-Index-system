@@ -24,21 +24,21 @@ Module: `json`, `matplotlib.pyplot` <br>
 Function: Filter the data in city_aqi.json and acquire the scatters of PM2.5-AQI, CO-AQI, MO2-AQI, PM10-AQI, 03-AQI, SO2-AQI. According to those scatters we can make some rough inferences about which the parameters would affect AQI. <br>
 
 * Scatters <br>
-![scatter](https://github.com/yangchenhui9509/myEE551project/tree/master/project/scatter/Top_10_cities_with_the_best_AQI.png) <br>
+![](https://github.com/yangchenhui9509/myEE551project/raw/master/project/scatter/Top_10_cities_with_the_best_AQI.png) <br>
 The scatter of Top 10 Chinese cities with the best air quality Index on 04/24/2019 <br>
-![scatter](https://github.com/yangchenhui9509/myEE551project/tree/master/project/scatter/10_cities_with_the_worst_AQI.png) <br>
+![](https://github.com/yangchenhui9509/myEE551project/raw/master/project/scatter/10_cities_with_the_worst_AQI.png) <br>
 The scatter of Top 10 Chinese cities with the worst air quality Index on 04/24/2019 <br>
-![scatter](https://github.com/yangchenhui9509/myEE551project/tree/master/project/scatter/pm25_aqi.png) <br>
+![](https://github.com/yangchenhui9509/myEE551project/raw/master/project/scatter/pm25_aqi.png) <br>
 The scatter with pm2.5-aqi <br>
-![scatter](https://github.com/yangchenhui9509/myEE551project/tree/master/project/scatter/co_aqi.png) <br>
+![](https://github.com/yangchenhui9509/myEE551project/raw/master/project/scatter/co_aqi.png) <br>
 The scatter with co-aqi <br>
-![scatter](https://github.com/yangchenhui9509/myEE551project/tree/master/project/scatter/mo2_aqi.png) <br>
+![](https://github.com/yangchenhui9509/myEE551project/raw/master/project/scatter/mo2_aqi.png) <br>
 The scatter with mo2-aqi <br>
-![scatter](https://github.com/yangchenhui9509/myEE551project/tree/master/project/scatter/pm10_aqi.png) <br>
+![](https://github.com/yangchenhui9509/myEE551project/raw/master/project/scatter/pm10_aqi.png) <br>
 The scatter with pm10-aqi <br>
-![scatter](https://github.com/yangchenhui9509/myEE551project/tree/master/project/scatter/o3_aqi.png) <br>
+![](https://github.com/yangchenhui9509/myEE551project/raw/master/project/scatter/o3_aqi.png) <br>
 The scatter with o3-aqi <br>
-![scatter](https://github.com/yangchenhui9509/myEE551project/tree/master/project/scatter/so2_aqi.png) <br>
+![](https://github.com/yangchenhui9509/myEE551project/raw/master/project/scatter/so2_aqi.png) <br>
 The scatter with so2-aqi <br>
 
 * Conclusion <br>
