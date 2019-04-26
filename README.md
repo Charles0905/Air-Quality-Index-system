@@ -1,4 +1,4 @@
-Obtain the China Air Quality Index online and conduct a simple data analysis
+Obtain the Air Quality Index of cities in China online and conduct a simple data analysis
 =======
 
 ### Introduction
